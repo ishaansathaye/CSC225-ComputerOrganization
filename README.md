@@ -9,3 +9,4 @@
 - ### [Assignment 6 - Functions](https://github.com/csc225spring22/asgn6-ishaansathaye)
 - ### [Assignment 7 - Pointers and Arrays](https://github.com/csc225spring22/asgn7-ishaansathaye)
 - ### [Assignment 8 - Linked Lists](https://github.com/csc225spring22/asgn8-ishaansathaye)
+
